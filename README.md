@@ -8,6 +8,8 @@ Web Developer
 * ✉️  You can contact me at [congminhpham163@gmail.com](mailto:congminhpham163@gmail.com)
 * 🧠  I'm learning at HUFLIT university
 
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="500">
+
 ### Skills
 
 <p align="left">
